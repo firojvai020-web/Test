@@ -1,0 +1,63 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Crossed Swords behind helmet -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M32,32 L40,24 L76,60 L72,68 L68,72 L60,76 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M28,28 L34,22 L38,26 L32,32 Z" />
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M76,32 L68,24 L32,60 L36,68 L40,72 L48,76 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M80,28 L74,22 L70,26 L76,32 Z" />
+
+    <!-- Warrior Helmet Crest (Plume) -->
+    <path
+        android:fillColor="#FF3D00"
+        android:pathData="M54,22 C48,22 47,28 47,36 L61,36 C61,28 60,22 54,22 Z" />
+    <path
+        android:fillColor="#FF6E40"
+        android:pathData="M54,24 C51,24 50,29 50,35 L58,35 C58,29 57,24 54,24 Z" />
+
+    <!-- Helmet Main Dome -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M36,46 C36,36 44,32 54,32 C64,32 72,36 72,46 L72,56 C72,68 62,76 54,78 C46,76 36,68 36,56 Z" />
+
+    <!-- Helmet Shading / Inset -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M40,46 C40,38 46,35 54,35 C62,35 68,38 68,46 L68,54 C68,64 60,71 54,73 C48,71 40,64 40,54 Z" />
+
+    <!-- T-visor Face Opening (Spartan / Warrior T-shape) -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M43,48 L65,48 L65,54 L57,54 L57,68 L51,68 L51,54 L43,54 Z" />
+
+    <!-- Eyes glow in visor -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M46,50 L50,50 L49,52 L45,52 Z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M58,50 L62,50 L63,52 L59,52 Z" />
+
+    <!-- Nose Guard highlight -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M53,44 L55,44 L55,54 L53,54 Z" />
+
+    <!-- Cheek Plates and Rivets -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M41,56 L43,56 L43,62 L41,60 Z" />
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M67,56 L65,56 L65,62 L67,60 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "We Are Warriors",
+  "description": "Epic lane-defense evolution strategy game inspired by We Are Warriors. Evolve through historical ages, spawn troops, upgrade meat production, and conquer timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
